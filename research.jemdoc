@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+== Research Interest
+My research primarily focuses on structural matrix estimation and network analysis, with broader interests in machine learning and statistical modeling. I am particularly interested in:
+
+- High-dimensional statistical inference: Developing methods for estimating and analyzing large-scale structured matrices.
+- Network analysis: Studying the structure and dynamics of complex networks, including community detection and spectral methods.
+- Machine learning theory: Understanding the theoretical properties of learning algorithms in statistical settings.
+
+I aim to develop theoretically sound and computationally efficient statistical methods that can be applied to real-world data in scientific and engineering domains.
+
+
+
+== Publications/Manuscripts
+
+=== Entrywise Low-rank Matrix Estimation
+
+- *H. Yan* and K. Levin (2025) [https://openreview.net/attachment?id=ynLilizbOW&name=pdf 	
+Improved dependence on coherence in eigenvector and eigenvalue estimation error bounds] /AISTAT 2025/
+- *H. Yan* and K. Levin (2024) [https://arxiv.org/abs/2410.24195 Coherence-free Entrywise Estimation of Eigenvectors
+in Low-rank Signal-plus-noise Matrix Models]  /Neurips 2024/.
+- *H. Yan* and K. Levin (2023) [https://arxiv.org/abs/2307.01942 Minimax rates for latent position estimation in the generalized random dot product graph]
+
+
+
+
+== Working projects
+
+=== In-Context Learning
+
+- Understanding how transformers develops in-context learning capability through gradient descent. 
+
+=== Multiple Matrix Estimation
+
+- Revealing that multiple matrices with shared structures are much easier to estimate than a single matrix. 
+
+
