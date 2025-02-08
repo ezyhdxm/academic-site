@@ -1,9 +1,18 @@
-# jemdoc: menu{index.html}{Home}, menu{research.html}{Research}, menu{contact.html}{Contact}
-= Hao Yan's Homepage
+# jemdoc: menu{MENU}{index.html}
+= Hao Yan
 
-Welcome to my homepage! <br /><br />
-
-I am a Statistics Ph.D. student in University of Wisconsin-Madison. I am very fortunate to be advised by
-Professor <a href="https://pages.stat.wisc.edu/~kdlevin/" target=&ldquo;blank&rdquo;>Keith Levin</a>.
 
 ~~~
+{}{img_left}{assets/profile.JPG}{alt profile}{}{300px}{https://ezyhdxm.github.io/}
+
+*Welcome to my homepage!*  
+
+- I am a Ph.D. student in Statistics at the University of Wisconsin–Madison. 
+
+- I am very fortunate to be advised by Professor [https://pages.stat.wisc.edu/~kdlevin/ Keith Levin].
+
+- My research focuses on structural matrix estimation and network analysis, with broad interests in machine learning.
+
+~~~
+
+/photo credit: [http://linkedin.com/in/zhen-l-9b0457166 Zhen Li]/
